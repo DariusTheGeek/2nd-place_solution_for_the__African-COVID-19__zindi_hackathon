@@ -1,4 +1,4 @@
-# Position 2 solution for the *[African-COVID-19](https://zindi.africa/hackathons/south-african-covid-19-vulnerability-map)* zindi hackathon
+# Position 2 -[team SomeC](https://zindi.africa/hackathons/south-african-covid-19-vulnerability-map/leaderboard)- solution for the *[African-COVID-19](https://zindi.africa/hackathons/south-african-covid-19-vulnerability-map)* zindi hackathon
 
 ## Context
 Can we infer important COVID-19 public health risk factors from past data? In many countries census and other survey data may be incomplete or out of date. This challenge is to develop a proof-of-concept for how machine learning can help governments more accurately map COVID-19 risk in 2020 using old data, without requiring a new costly, risky, and time-consuming on-the-ground survey.
